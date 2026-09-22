@@ -113,7 +113,7 @@ function renderPainel(el) {
 
         <!-- ── Banner promocional ───────────────────────────────────── -->
         <div style="width:100%;margin-bottom:12px;">
-          <img src="/images/banner-promo.jpg" alt="Promoção" style="width:100%;border-radius:12px;display:block;" />
+          <img src="/images/banner-promo.jpg.png" alt="Promoção" style="width:100%;border-radius:12px;display:block;" />
         </div>
 
         <!-- ── Game card ─────────────────────────────────────────────── -->
